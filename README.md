@@ -24,7 +24,7 @@ This is the back-end for the **Library API**, built with **Spring Boot**. It pro
 
 1. Navigate to the backend folder:
    ```bash
-   cd backend
+   cd library-service
 Add your OpenAI API Key to application.yml:
 
 
